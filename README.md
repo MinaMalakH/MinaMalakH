@@ -42,10 +42,6 @@ Enterprise-grade REST API with production-ready features
 **Languages**
 - JavaScript/TypeScript, Python, Java, C++
 
-### 📊 GitHub Stats
-
-![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaMalakH&show_icons=true&theme=dark)
-
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/minamalakh](https://www.linkedin.com/in/minamalakh)
