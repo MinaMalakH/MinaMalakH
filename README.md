@@ -55,8 +55,8 @@ Job application and tracking system (add a short description here)
 * Postman, Swagger/OpenAPI Documentation
 
 **Frontend** (Full-Stack Capability)
-* React.js, Next.js, Vue.js
-* HTML5, CSS3, Bootstrap
+* React.js
+* HTML5, CSS3, Tailwind css
 
 **Languages**
 * JavaScript/TypeScript, Python, Java, C++
